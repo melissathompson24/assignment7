@@ -52,6 +52,7 @@ function createSearchResultsHTML (searchResult) {
 	+ searchResult.DisplayUrl
 	+ '</div>'
 	+ '</div>'
+	+ '</div>'
 	;
 	var searchNow = $(searchString);
 	return searchNow;
