@@ -3,6 +3,11 @@
 	display: block;
 }
 
-.searchResults {
+.searchResult {
+	display: block;
+}
+
+
+#searchCallback {
 	display: block;
 }
